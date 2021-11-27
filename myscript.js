@@ -48,11 +48,11 @@ var stillPlaying = true;
 function updateQuestion() {
   if (stillPlaying) {
     var questionNumber = Math.floor(Math.random() * questions.length);
-
-    document.getElementById("question").innerHTML = `${questions.pop(
-      questionNumber
-    )}`;
-
+    console.log(questionNumber);
+    document.getElementById(
+      "question"
+    ).innerHTML = `${questions[questionNumber]}`;
+    questions.pop();
     document.getElementById("counter").innerHTML = `${questions.length} ${
       questions.length == 1 ? "question" : "questions"
     } left.`;
