@@ -1,0 +1,91 @@
+1. If you had a soundtrack for your life, what 3 songs you pick?
+2. When was the last time you cried? 
+3. What did you dream about when you were younger that is part of your life now?
+4. What are you looking forwards to in the next 3 months? 
+5. Describe yourself or someone in your life in 4 words, the person next to you has guess the relationship (brother, mom, friend, uncle, you, etc.) 
+6. Staring contest.
+7. Sit closer.
+8. Play the next 2 prompts Facing away from each other.
+9. Say something that you love/hate. Other player has to guess if you love or hate it. 
+10. Exchange phones and text something fun to the other player's person of choice. 
+11. Take a photo together. 
+12. Play the next 2 prompts standing up! 
+13. What quality do you enjoy about the other person? 
+14. Play the next 2 prompts in a whisper. (shhh!) 
+15. Describe 2 parts of your deal.
+16. Set a timer for 3 minutes. write a note to each other and fold it. You can only read it when the game is over.
+17. Make a secret handshake.
+18. Give the other person a pen tattoo.
+19. share a happy memory
+20. describe each other as a food dish
+21. switch seats.
+22. move to a new location.
+23. play rock paper scissors. this winner has to plan the next hangout activity
+24. what is you favorite dessert?
+25. Describe a life goal of yours that is not related to school or work.
+26. Play rock paper scissors. The loser has to share an embarrassing story.
+27. what name would suit the other person? both players play.
+28. set a time for 40 seconds. draw the other person.
+29. what is your favorite part about today?
+30. what activity would be fun  to do with the other person?
+Share something that excites you!
+32. What is something you have been working to get better at?
+33. Describe (2) simple pleasures in your life.
+34. describe something you are grateful for.
+35. each player has to add a new prompt to the game.
+36. What is (1) Thing you want for Christmas?
+37. Play the next (2) prompts with your eyes closed. The other player reads your prompts.
+38. set a timer for 1 minute. Look into each others eyes. Don't talk!
+39. switch seats.
+40. What is something cool thats happened to you this week?
+41. Share (2) thoughts you had recently.
+42. Use (3) words to describe your favorite food. The other person has (2) tries to guess what it is.
+43. Describe each other with a picture.
+44. What kind of person are you trying to be?
+
+[
+  "1. If you had a soundtrack for your life, what 3 songs you pick?",
+  "2. When was the last time you cried? ",
+  "3. What did you dream about when you were younger that is part of your life now?",
+  "4. What are you looking forwards to in the next 3 months? ",
+  "5. Describe yourself or someone in your life in 4 words, the person next to you has guess the relationship (brother, mom, friend, uncle, you, etc.) ",
+  "6. Staring contest.",
+  "7. Sit closer.",
+  "8. Play the next 2 prompts Facing away from each other.",
+  "9. Say something that you love/hate. Other player has to guess if you love or hate it. ",
+  "10. Exchange phones and text something fun to the other players person of choice. ",
+  "11. Take a photo together. ",
+  "12. Play the next 2 prompts standing up! ",
+  "13. What quality do you enjoy about the other person? ",
+  "14. Play the next 2 prompts in a whisper. (shhh!) ",
+  "15. Describe 2 parts of your deal.",
+  "16. Set a timer for 3 minutes. write a note to each other and fold it. You can only read it when the game is over.",
+  "17. Make a secret handshake.",
+  "18. Give the other person a pen tattoo.",
+  "19. Share a happy memory",
+  "20. Describe each other as a food dish",
+  "21. Switch seats.",
+  "22. Move to a new location.",
+  "23. Play rock paper scissors. this winner has to plan the next hangout activity",
+  "24. What is you favorite dessert?",
+  "25. Describe a life goal of yours that is not related to school or work.",
+  "26. Play rock paper scissors. The loser has to share an embarrassing story.",
+  "27. What name would suit the other person? both players play.",
+  "28. Set a time for 40 seconds. draw the other person.",
+  "29. What is your favorite part about today?",
+  "30. What activity would be fun  to do with the other person?",
+  "31. Share something that excites you!",
+  "32. What is something you have been working to get better at?",
+  "33. Describe (2) simple pleasures in your life.",
+  "34. Describe something you are grateful for.",
+  "35. Each player has to add a new prompt to the game.",
+  "36. What is (1) Thing you want for Christmas?",
+  "37. Play the next (2) prompts with your eyes closed. The other player reads your prompts.",
+  "38. Set a timer for 1 minute. Look into each others eyes. Don't talk!",
+  "39. Switch seats.",
+  "40. What is something cool thats happened to you this week?",
+  "41. Share (2) thoughts you had recently.",
+  "42. Use (3) words to describe your favorite food. The other person has (2) tries to guess what it is.",
+  "43. Describe each other with a picture.",
+  "44. What kind of person are you trying to be?",
+];

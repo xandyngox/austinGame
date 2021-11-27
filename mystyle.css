@@ -1,0 +1,143 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Raleway", sans-serif;
+}
+
+.background {
+  background-color: rgb(244, 244, 244);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  background-color: white;
+  width: 80%;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 30px;
+  box-shadow: 2px 2px 5px 2px rgb(196, 196, 196);
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  align-items: center;
+  /* justify-content: space-around; */
+  /* padding: 20px; */
+  margin-top: 50px;
+}
+
+#counter {
+  font-size: 30px;
+}
+#question {
+  font-size: 23px;
+  margin-top: 20px;
+  text-align: center;
+  padding: 5vw;
+  /* background-color: rgb(0, 0, 0); */
+  /* color: white; */
+  /* border-radius: 15px; */
+}
+
+#button:active {
+  transform: translateY(2px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+#button {
+  color: rgb(230, 230, 230);
+  font-size: 20px;
+  width: 100%;
+  height: 30%;
+  border-radius: 0px 0px 30px 30px;
+  border: none;
+  background: linear-gradient(128deg, #1c0e50, #16d4a8);
+  background-size: 400% 400%;
+  -webkit-animation: AnimationName 12s ease infinite;
+  -moz-animation: AnimationName 12s ease infinite;
+  -o-animation: AnimationName 12s ease infinite;
+  animation: AnimationName 12s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 54%;
+  }
+  50% {
+    background-position: 100% 47%;
+  }
+  100% {
+    background-position: 0% 54%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 54%;
+  }
+  50% {
+    background-position: 100% 47%;
+  }
+  100% {
+    background-position: 0% 54%;
+  }
+}
+@-o-keyframes AnimationName {
+  0% {
+    background-position: 0% 54%;
+  }
+  50% {
+    background-position: 100% 47%;
+  }
+  100% {
+    background-position: 0% 54%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 54%;
+  }
+  50% {
+    background-position: 100% 47%;
+  }
+  100% {
+    background-position: 0% 54%;
+  }
+}
+
+.footerr {
+  position: absolute;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  /* background: #3b5998; */
+  color: rgb(130, 130, 130);
+}
