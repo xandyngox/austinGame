@@ -48,11 +48,19 @@ var stillPlaying = true;
 function updateQuestion() {
   if (stillPlaying) {
     var questionNumber = Math.floor(Math.random() * questions.length);
-    console.log(questionNumber);
+    console.log(questions);
     document.getElementById(
       "question"
     ).innerHTML = `${questions[questionNumber]}`;
-    questions.pop(questionNumber);
+
+    function removeItemOnce(arr, index) {
+      if (index > -1) {
+        arr.splice(index, 1);
+      }
+      return arr;
+    }
+    removeItemOnce(questions, questionNumber);
+
     document.getElementById("counter").innerHTML = `${questions.length} ${
       questions.length == 1 ? "question" : "questions"
     } left.`;
