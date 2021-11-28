@@ -3,7 +3,7 @@ var questions = [
   "When was the last time you cried? ",
   "What did you dream about when you were younger that is part of your life now?",
   "What are you looking forward to in the next 3 months? ",
-  "Describe yourself or someone in your life in 4 words. The other player has to guess the relationship (brother, mom, friend, uncle, you, etc.).",
+  "Describe yourself or someone in your life in 4 words. The other player has to guess the relationship (Brother, Mom, Friend, Uncle, You, etc.).",
   "Staring contest.",
   "Sit closer.",
   "Play the next 2 prompts facing away from each other.",
@@ -17,11 +17,11 @@ var questions = [
   "Set a timer for 3 minutes. Write a note to each other and fold it. You can only read it when the game is over.",
   "Make a secret handshake.",
   "Give the other person a pen tattoo.",
-  "Share a happy memory",
-  "Describe each other as a food dish",
+  "Share a happy memory.",
+  "Describe each other as a food dish.",
   "Switch seats.",
   "Move to a new location.",
-  "Play rock paper scissors. The winner has to plan the next hangout activity",
+  "Play rock paper scissors. The winner has to plan the next hangout activity.",
   "What is your favorite dessert?",
   "Describe a life goal of yours that is not related to school or work.",
   "Play rock paper scissors. The loser has to share an embarrassing story.",
@@ -52,7 +52,7 @@ function updateQuestion() {
     document.getElementById(
       "question"
     ).innerHTML = `${questions[questionNumber]}`;
-    questions.pop();
+    questions.pop(questionNumber);
     document.getElementById("counter").innerHTML = `${questions.length} ${
       questions.length == 1 ? "question" : "questions"
     } left.`;
